@@ -3,7 +3,7 @@
 # Proportional, Neyman and Optimised Allocation
 # --------------------------------------------
 
-# 1. INPUT DATA (change values if needed)
+# 1. INPUT DATA 
 
 # Number of strata
 L <- 3
